@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PermissionsDispatcherDemo</string>
+    <string name="btn_camera">打电话</string>
+</resources>
